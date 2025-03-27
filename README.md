@@ -2,7 +2,7 @@
 
 __1. Title: Led Light bilinking System Using LPC2129__
 
-*Objective:*To understand and implement LED control using a microcontroller by turning it on and off at a fixed interval.
+*Objective:* To understand and implement LED control using a microcontroller by turning it on and off at a fixed interval.
 
 __Hardware Connection:__
  - LPC2129 P0.7 --> LED
