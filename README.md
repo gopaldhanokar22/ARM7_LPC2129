@@ -876,11 +876,7 @@ __Software Simulation:__
 
 __Hardware Simulation:__
 
-![IMG-20250331-WA0081](https://github.com/user-attachments/assets/153206ae-e899-4308-bbd5-edddf72b0860)
 
-![IMG-20250331-WA0082](https://github.com/user-attachments/assets/fafeb4f7-1c15-4e87-94bf-3bcae3432e7a)
-
-![IMG-20250331-WA0083](https://github.com/user-attachments/assets/cd0b09c3-55a3-40ef-adf7-5a7eef34ce04)
 
 
 __Project Code:__
