@@ -615,7 +615,9 @@ __Software Simulation:__
 
 __Hardware Simulation:__
 
+![WhatsApp Image 2025-06-03 at 15 18 54_2eaaae6d](https://github.com/user-attachments/assets/86115884-ec7f-458e-9e8d-6f868f2713ee)
 
+![WhatsApp Image 2025-06-03 at 15 18 55_e55da063](https://github.com/user-attachments/assets/30ad5236-5af4-49a1-83c9-305277519520)
 
 
 __Project Code:__
@@ -715,6 +717,9 @@ __Software Connection:__
 
 __Hardware Simulation:__
 
+![WhatsApp Image 2025-06-03 at 15 19 41_9d3153f7](https://github.com/user-attachments/assets/b10a79e8-c861-43fa-a964-283537fe2ace)
+
+![WhatsApp Image 2025-06-03 at 15 19 42_04da8c79](https://github.com/user-attachments/assets/105e51e7-0ca9-4ef8-bd72-d5af2967a26e)
 
 
 __Project Code:__
@@ -793,7 +798,11 @@ __Software Simulation:__
 
 __Hardware Simulation:__
 
+![WhatsApp Image 2025-06-03 at 15 21 43_59bfae09](https://github.com/user-attachments/assets/9999a5e5-bbbe-4d6c-b8fa-a43ad058c967)
 
+![WhatsApp Image 2025-06-03 at 15 21 43_ed4f7e64](https://github.com/user-attachments/assets/74f344ae-0af8-4cd5-9064-6656b439c01c)
+
+![WhatsApp Image 2025-06-03 at 15 21 44_7dc85125](https://github.com/user-attachments/assets/941bcb7e-2c4a-4e3c-bca3-d3f99860167c)
 
 
 __Project Code:__
@@ -858,6 +867,11 @@ __Software Simulation:__
 
 __Hardware Simulation:__
 
+![WhatsApp Image 2025-06-03 at 15 22 43_ab887f0b](https://github.com/user-attachments/assets/b0b47eb0-7aaa-4943-ae03-752336ccfaa0)
+
+![WhatsApp Image 2025-06-03 at 15 22 43_5e580cc6](https://github.com/user-attachments/assets/f08f2bf2-7a0c-4218-92d1-eae117453cab)
+
+![WhatsApp Image 2025-06-03 at 15 22 44_a8a1a057](https://github.com/user-attachments/assets/d8b31cf4-e0ea-4c89-96d7-314fbda60e25)
 
 
 __Project Code:__
@@ -917,7 +931,11 @@ __Software Simulation:__
 
 __Hardware Simulation:__
 
+![WhatsApp Image 2025-06-03 at 15 23 48_0f3d9272](https://github.com/user-attachments/assets/a3e491a5-7a6d-4728-8a2b-64abf2c05979)
 
+![WhatsApp Image 2025-06-03 at 15 23 49_cae6e1fb](https://github.com/user-attachments/assets/dffdc4d1-4cd6-42ab-b68a-2a6387f0a066)
+
+![WhatsApp Image 2025-06-03 at 15 23 49_6d1e54fd](https://github.com/user-attachments/assets/eee4c44d-563a-4849-a956-c688b22a41e5)
 
 
 __Project Code:__
@@ -977,7 +995,9 @@ __Software Simulation:__
 
 __Hardware Simulation:__
 
+![WhatsApp Image 2025-06-03 at 15 24 52_5653e36f](https://github.com/user-attachments/assets/7a626d21-67b1-49e7-8ea2-61530b9f30c1)
 
+![WhatsApp Image 2025-06-03 at 15 24 52_6e4d1111](https://github.com/user-attachments/assets/9e5a4689-f547-46cd-af31-a46fd258b2a4)
 
 
 __Project code:__
@@ -1049,6 +1069,12 @@ __Software simulation:__
 ![image](https://github.com/user-attachments/assets/634e4f51-7d72-4b1d-ace0-49156f08663f)
 
 __Hardware Simulation:__
+
+![WhatsApp Image 2025-06-03 at 15 27 33_e8df56d6](https://github.com/user-attachments/assets/271ab3d4-a716-45fa-a46c-ec70e4f34974)
+
+![WhatsApp Image 2025-06-03 at 15 27 33_230082ef](https://github.com/user-attachments/assets/37a84ee8-706d-4517-a5dc-cc32ec341399)
+
+![WhatsApp Image 2025-06-03 at 15 27 34_8ae8320f](https://github.com/user-attachments/assets/09b4436a-fe5d-4763-896f-5a5759be7897)
 
 
 __Project Code:__
@@ -1152,9 +1178,6 @@ __Software Connection:__
 
 ![image](https://github.com/user-attachments/assets/9e1c6f60-afbf-427b-93fe-872d8049eab0)
 
-__Hardware Simulation:__
-
-
 
 __Project code:__
 ```
@@ -1234,7 +1257,9 @@ __Software Simulation:__
 
 __Hardware Simulation:__
 
+![WhatsApp Image 2025-06-03 at 15 25 48_0c51ae0d](https://github.com/user-attachments/assets/a28c77f7-dfd8-436c-99a6-dc3461c1fc42)
 
+![WhatsApp Image 2025-06-03 at 15 25 48_d619bfa7](https://github.com/user-attachments/assets/0a3803ac-dc72-45ae-8f48-4aafe28fd2f7)
 
 __Project code:__
 ```
@@ -1287,7 +1312,9 @@ __Software Simulation:__
 
 __Hardware Simulation:__
 
+![WhatsApp Image 2025-06-03 at 15 25 48_82128361](https://github.com/user-attachments/assets/cbc67aad-3907-405a-9de6-a39af838ca0c)
 
+![WhatsApp Image 2025-06-03 at 15 25 48_d619bfa7](https://github.com/user-attachments/assets/0154a2a9-f343-4fd1-9c3e-44c9ae6ea61b)
 
 __Project code:__
 ```
@@ -1367,8 +1394,7 @@ __Software Simulation:__
 
 __Hardware Simulation:__
 
-
-
+![WhatsApp Image 2025-06-03 at 15 29 41_9915b611](https://github.com/user-attachments/assets/a76cd3f4-f734-48fb-bc7b-840faa122f11)
 
 __Project Code:__
 ```
@@ -1418,6 +1444,9 @@ lm35 connections:\
 
 __Hardware Simulation:__
 
+![WhatsApp Image 2025-06-03 at 15 30 15_48271a27](https://github.com/user-attachments/assets/3967dd34-eb63-4e46-9f45-4a7d2874bdf3)
+
+![WhatsApp Image 2025-06-03 at 15 30 15_d0f44fce](https://github.com/user-attachments/assets/eb6f7e62-4ae1-4f0d-ab0a-b9b431cd2014)
 
 
 __Project Code:__
@@ -1496,9 +1525,6 @@ lcd Connection:
 DHT11 connections:\
 	- DHT11 out ---> lpc2129 p0.10
 
- __Hardware Simulation:__
-
-
 __Project Code:__
 ```
 //dht11_test.c
@@ -1552,9 +1578,6 @@ __Software Simulation:__
 
 ![image](https://github.com/user-attachments/assets/04d5f0c1-f762-41ae-a59d-79de7f41151e)
 
-__Hardware Simulation:__
-
-
 __Project Code:__
 ```
 //lcd 20*4
@@ -1606,7 +1629,6 @@ main()
 	while(1);
 }
 ```
-
 
 
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
